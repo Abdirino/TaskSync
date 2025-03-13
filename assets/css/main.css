@@ -245,6 +245,13 @@ p {
   }
 }
 
+.signup{
+  text-decoration: underline;
+  color: white !important;
+}
+
+
+
 /*===== All Preloader Style =====*/
 .preloader {
   /* Body Overlay */
